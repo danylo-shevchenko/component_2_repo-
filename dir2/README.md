@@ -1,1 +1,1 @@
-component_2_repo-
+component_2_repo-demo
